@@ -7,6 +7,7 @@
 ```py
   Name : JakeIsSoBad Aka Lauscript
   Skillset : Lua
+  Learning : C++ , C# , Html
   Discord  : 971020727396479026
   Hobbies  : [
    Play Roblox(Make Script)
