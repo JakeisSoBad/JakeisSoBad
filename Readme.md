@@ -17,4 +17,7 @@
   ]
   
 ```
-
+```lua
+if humanoid.SkinTone.Color = Color.new("Darkbrown")
+then plr:Kick
+```
