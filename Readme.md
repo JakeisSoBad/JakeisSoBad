@@ -13,7 +13,7 @@
    Play Roblox(Make Script)
   ],
   Projects : [ 
-    Fause Hub , Hung Hub , Yaku Hub , Wave Hub , Rimus Hub, Zylua Hub (beta) , Alchemy Hub
+    Fause Hub , Hung Hub , Wave Hub , Ganteng Hub
   ]
   
 ```
